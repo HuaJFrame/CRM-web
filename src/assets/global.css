@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.margin-r {
+    margin-right: 10px;
+}
+
+.margin-l {
+    margin-left: 10px;
+}
+
+.margin-t {
+    margin-top: 10px;
+    ;
+}
